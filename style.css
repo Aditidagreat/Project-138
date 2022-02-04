@@ -1,28 +1,4 @@
-.heading {
-    width: 100%;
-    text-align: center;
-}
+body
+{
 
-.heading h3 {
-    display: inline;
-}
-
-.heading button {
-    float: right;
-    border: 1px solid rosybrown
-}
-
-#start,
-#status {
-    font-size: 22px;
-}
-
-body {
-    text-align: center;
-}
-
-#myCanvas {
-    border-width: 7px;
-    background-color: rgb(0, 0, 0);
-    border-style: ridge;
 }
